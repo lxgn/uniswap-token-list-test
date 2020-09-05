@@ -1,6 +1,6 @@
 {
     "name": "1 lxgn",
-    "timestamp": "2020-09-05T12:40:12+00:00",
+    "timestamp": "2020-09-05T13:05:47+00:00",
     "version": {
         "major": 1,
         "minor": 0,
@@ -25,6 +25,14 @@
             "chainId": 4,
             "name": "0x Protocol Token",
             "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/lxgn/uniswap-token-list-test/master/img/zrx.png"
+        },
+        {
+            "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+            "chainId": 4,
+            "name": "WrappedEther",
+            "symbol": "WETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/lxgn/uniswap-token-list-test/master/img/zrx.png"
         }
