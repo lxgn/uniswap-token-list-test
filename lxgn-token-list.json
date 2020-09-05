@@ -1,0 +1,33 @@
+{
+    "name": "1 lxgn",
+    "timestamp": "2020-09-05T12:40:12+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "liksagen",
+        "default",
+        "list"
+    ],
+    "tokens": [
+        {
+            "address": "0x724d1b69a7ba352f11d73fdbdeb7ff869cb22e19",
+            "chainId": 4,
+            "name": "TellorTributes",
+            "symbol": "TRB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/lxgn/uniswap-token-list-test/master/img/trb.png"
+        },
+        {
+            "address": "0xF22e3F33768354c9805d046af3C0926f27741B43",
+            "chainId": 4,
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/lxgn/uniswap-token-list-test/master/img/zrx.png"
+        }
+    ],
+    "logoURI": "https://raw.githubusercontent.com/lxgn/uniswap-token-list-test/master/img/trb.png"
+}
